@@ -1,6 +1,5 @@
 import React from 'react'
 import {BrowserRouter as Router,Switch,Route} from 'react-router-dom'
-import Home from "./ShoesApp/Home"
 import About from "./ShoesApp/About"
 import Product from "./ShoesApp/product"
 import ProductDetail from "./ShoesApp/ProductDetail"

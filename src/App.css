@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+
+.productgrid  .link {
+  text-align: center;
+  width: 300px;
+  box-shadow: 2 2 2px #463636;
+  margin: 10px;
+}
+.productgrid .link:hover{
+  background-color: lightgray;
+
+}
